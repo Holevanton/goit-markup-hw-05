@@ -489,9 +489,7 @@ header .container{
         margin-bottom: 16px;
         color: #2E2F42;
     }
-    .review-form-field-wrapper{
-        margin-bottom: 8px;
-    }
+  
     .review-form-field-label{
         display: block;
         font-size: 12px;
@@ -504,6 +502,7 @@ header .container{
     }
     .review-form-field-wrapper-icon{
         position: relative;
+        margin-bottom: 8px;
     }
     .review-form-input{
         width: 100%;
